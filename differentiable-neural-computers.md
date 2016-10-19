@@ -5,4 +5,4 @@ https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf
 - temporal link keeps track of order that writes happened
 - controller can choose whether or not to write anything to memory each timestep
 - same controller can do transitive reasoning (a new read conditioned on read from previous timestep) during inference time.
-- three attention: content, temporal, allocation
+- three attention types: content, temporal, allocation
