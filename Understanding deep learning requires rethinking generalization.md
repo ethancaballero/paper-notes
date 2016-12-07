@@ -1,6 +1,7 @@
 https://arxiv.org/abs/1611.03530
 
 This paper is a more approachable version of this paper:
+
 Train faster, generalize better: Stability of stochastic gradient descent
 https://arxiv.org/pdf/1509.01240.pdf
 
