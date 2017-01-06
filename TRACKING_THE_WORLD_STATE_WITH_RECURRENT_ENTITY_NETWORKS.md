@@ -4,4 +4,4 @@ During Decode, it uses standard attention to read from these entity slots based 
 
 Why did they only test for single hop? Is it because of scaling issues? If so, you need to add sparse read write from https://arxiv.org/abs/1610.09027
 
-This can be considered as another form of Active Memory.
+EntNet can be considered as another form of Active Memory (https://arxiv.org/abs/1610.08613).
