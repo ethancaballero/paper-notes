@@ -3,3 +3,5 @@ There's a bunch of memory slots that each can be used to represent a single enti
 During Decode, it uses standard attention to read from these entity slots based on a question or decode_context.
 
 Why did they only test for single hop? Is it because of scaling issues? If so, you need to add sparse read write from https://arxiv.org/abs/1610.09027
+
+This can be considered as another form of Active Memory.
