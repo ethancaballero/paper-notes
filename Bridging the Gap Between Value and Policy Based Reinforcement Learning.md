@@ -1,4 +1,4 @@
-Bridging the Gap Between Value and Policy Based Reinforcement Learning
+# Bridging the Gap Between Value and Policy Based Reinforcement Learning
 
 https://arxiv.org/abs/1702.08892
 
