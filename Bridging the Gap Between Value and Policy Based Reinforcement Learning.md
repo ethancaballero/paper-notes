@@ -2,7 +2,7 @@ Bridging the Gap Between Value and Policy Based Reinforcement Learning
 
 https://arxiv.org/abs/1702.08892
 
-Acknowledging γ-discounted entropy regularization, they formulate a new notion of softmax temporal consistency for optimal Q-values as: 
+Acknowledging that γ-discounted entropy regularization is used in reward expectation, they formulate a new notion of softmax temporal consistency for optimal Q-values as: 
 Q∗(s,a) = r(s,a)+γτ log a′ exp(Q∗(s′,a′)/τ) .
 
 They then introduce a new RL algorithm called Path Consistency Learning (PCL) that extends this softmax temporal consistency to arbitrary (multi-step) trajectories. Pseudocode of PCL Algorithm can be seen in Section 3.5 .
