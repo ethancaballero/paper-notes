@@ -1,4 +1,5 @@
 Bridging the Gap Between Value and Policy Based Reinforcement Learning
+
 https://arxiv.org/abs/1702.08892
 
 Acknowledging γ-discounted entropy regularization, they formulate a new notion of softmax temporal consistency for optimal Q-values as: 
