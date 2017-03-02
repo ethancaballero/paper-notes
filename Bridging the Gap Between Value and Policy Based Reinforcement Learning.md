@@ -16,7 +16,7 @@ A3C vs PCL:
 In comparison to A3C, PCL’s advantage function is more aligned with rewards in that advantage is 0 on every trajectory for its optimal policy, which is not the case for A3C. Also, PCL’s value function is not dependent on the current policy.
 
 PGQ vs PCL:
-PQQ relates the optimal policy to the hard-max Qvalues in the limit of τ = 0, and thus proposes to augment the actor-critic objective with offline updates that minimize a set of single-step hard-max Bellman errors; PQQ's weakness is assuming limit of τ = 0 (τ is entropy).
+PGQ relates the optimal policy to the hard-max Qvalues in the limit of τ = 0, and thus proposes to augment the actor-critic objective with offline updates that minimize a set of single-step hard-max Bellman errors; PGQ's weakness is assuming limit of τ = 0 (τ is entropy).
 PCL extends the relationship to τ > 0 by exploiting a notion of softmax consistency of Q-values.
 
 
