@@ -10,7 +10,6 @@ how imagine encoder works:
 
 
 TODO:
-
 compare to 
 "Learning model-based planning from scratch"
 https://arxiv.org/abs/1707.06203
