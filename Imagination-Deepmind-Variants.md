@@ -1,10 +1,7 @@
 
-Imagination-Augmented Agents for Deep Reinforcement Learning
+Imagination-Augmented Agents for Deep Reinforcement Learning (https://arxiv.org/abs/1707.06203)
 
-https://arxiv.org/abs/1707.06203
-
-how imagine encoder works:
-
+how imagination encoder works:
 5 imagined rollouts of length 5 are concatenated to real one (for each single step of real one)
 
 
