@@ -9,10 +9,8 @@ how imagine encoder works:
 
 
 
-.
-.
-
-Learning model-based planning from scratch
-
+TODO:
+compare to 
+"Learning model-based planning from scratch"
 https://arxiv.org/abs/1707.06203
 
